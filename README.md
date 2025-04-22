@@ -1,2 +1,2 @@
-# Programmation ColLab
+# Programmation Collab
 COLLAB
